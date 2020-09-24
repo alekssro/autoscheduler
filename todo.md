@@ -1,0 +1,4 @@
+- [X] Definir estructura de desarrollo en docker (https://www.youtube.com/watch?v=fPtGgOJykTM)
+- [X] Crear Dockerfile inicial
+- [ ] Investigar dependencias
+- [ ] Estructurar repo
