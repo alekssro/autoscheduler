@@ -1,0 +1,21 @@
+{
+	"name": "middleware ENV",
+
+	"context": "..",
+
+	"dockerFile": "Dockerfile",
+
+	"settings": { 
+		"terminal.integrated.shell.linux": "/bin/bash",
+		"workbench.colorTheme": "Horizon"
+	},
+
+	"extensions": [
+		"visualstudioexptteam.vscodeintellicode",
+		"jolaleye.horizon-theme-vscode",
+		"coenraads.bracket-pair-colorizer-2", 
+		"yzhang.markdown-all-in-one",
+		"ms-python.python"
+	],
+	
+}
