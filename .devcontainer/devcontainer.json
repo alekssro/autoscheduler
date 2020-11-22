@@ -7,7 +7,7 @@
 
 	"settings": { 
 		"terminal.integrated.shell.linux": "/bin/bash",
-		"workbench.colorTheme": "Horizon"
+		"workbench.colorTheme": "Dracula"
 	},
 
 	"extensions": [
