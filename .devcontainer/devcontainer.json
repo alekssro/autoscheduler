@@ -3,7 +3,7 @@
 
 	"context": "..",
 
-	"dockerFile": "Dockerfile",
+	"dockerFile": "../docker/autoscheduler/Dockerfile",
 
 	"settings": { 
 		"terminal.integrated.shell.linux": "/bin/bash",
