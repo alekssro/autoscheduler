@@ -12,10 +12,10 @@
 
 	"extensions": [
 		"visualstudioexptteam.vscodeintellicode",
-		"jolaleye.horizon-theme-vscode",
-		"coenraads.bracket-pair-colorizer-2", 
+		"coenraads.bracket-pair-colorizer-2",
 		"yzhang.markdown-all-in-one",
-		"ms-python.python"
+		"ms-python.python",
+		"dracula-theme.theme-dracula"
 	]
 
 }
